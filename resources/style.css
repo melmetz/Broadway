@@ -2,11 +2,10 @@ html {text-align: center;font-family: Helvetica;}
 h1 {display:block;}
 h1 {font-size: 70px; font-weight: bold;color: white;}
 ul {font-size: 18px; color: white;}
-li {padding:5px;}
-.head {background-image:url("./images/the-flatiron-building.png");}
+.Head {background-image:url("./images/the-flatiron-building.png");}
 #process {font-size: 32px; font-weight: bold;}
 h3 {font-size: 23px; font-weight: bold;}
 h4 {font-size: 14px;}
-#Designed {display: block;padding: 5px;font-size: 23px; font-weight: bold; color: white;background-image:url("./images/the-flatiron-building.png");}
+#Designed {display: block;font-size: 23px; font-weight: bold; color: white;background-image:url("./images/the-flatiron-building.png");}
 h5 {font-size: 11px; color: white; background-color: dimgray;text-align: left;}
 a {color: white;}
